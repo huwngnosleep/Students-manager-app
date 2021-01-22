@@ -4,4 +4,4 @@ Made with ExpressJS (NodeJS)
 
 Features: CRUD students data
 
-link: not deployed yet!
+link: https://students-manager-app.herokuapp.com/
