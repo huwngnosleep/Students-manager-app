@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const path = require('path')
 const { get } = require('http')
-const port = 5000
+const port = process.env.port || 3000
 const route = require('./routes')
 
 
