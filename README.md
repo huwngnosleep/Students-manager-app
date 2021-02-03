@@ -11,3 +11,7 @@ account: admin
 password: admin
 
 Sign up feature is currently unavailable
+
+Will be made features:
+
+  - Edit student profile
